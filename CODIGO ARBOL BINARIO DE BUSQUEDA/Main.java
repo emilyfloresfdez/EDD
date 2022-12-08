@@ -27,7 +27,7 @@ public class Main
 		
 		arbol.imprimir();
 		System.out.println();
-		arbol.buscarRecursivo(20);
+		arbol.buscarRecursivo(19);
 		System.out.println();
 		arbol.eliminar(10);
 		arbol.imprimir();
